@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9dc92b43.css",
+    "main.js": "/static/js/main.62e29d2f.js",
+    "static/js/787.2d5243ec.chunk.js": "/static/js/787.2d5243ec.chunk.js",
+    "static/media/our-service.svg": "/static/media/our-service.2942a4f3e5c2f471191b17f11d1882b0.svg",
+    "static/media/1.jpeg": "/static/media/1.42d315e04d12c2e60893.jpeg",
+    "static/media/1.jpg": "/static/media/1.d381cb125b8e270858ec.jpg",
+    "static/media/3.jpeg": "/static/media/3.6d7933da82851b300f51.jpeg",
+    "static/media/3.jpg": "/static/media/3.8fb8835dd5fdb5b08c13.jpg",
+    "static/media/portfolio-backoverlay.svg": "/static/media/portfolio-backoverlay.274c018c69fc8b44abb8.svg",
+    "static/media/2.jpg": "/static/media/2.2a45dd6c780f2fada198.jpg",
+    "static/media/2.jpeg": "/static/media/2.07144c3d95bd23fdb914.jpeg",
+    "static/media/4.jpeg": "/static/media/4.5ca63089856151184b18.jpeg",
+    "static/media/price-plan-background-icons.svg": "/static/media/price-plan-background-icons.486f8581c7ddf97d6562.svg",
+    "static/media/our-service-background.svg": "/static/media/our-service-background.30d8ce512c4fd585ea29.svg",
+    "index.html": "/index.html",
+    "main.9dc92b43.css.map": "/static/css/main.9dc92b43.css.map",
+    "main.62e29d2f.js.map": "/static/js/main.62e29d2f.js.map",
+    "787.2d5243ec.chunk.js.map": "/static/js/787.2d5243ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9dc92b43.css",
+    "static/js/main.62e29d2f.js"
+  ]
+}
